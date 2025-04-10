@@ -7,7 +7,7 @@ body{
 }
 
 .heading{
-
+display: flex;
 }
 
 .comment{
