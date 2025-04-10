@@ -3,6 +3,7 @@ body{
     color: greenyellow;
     background-color: rgb(31, 31, 31);
     margin: 5%;
+    margin-top: 10%;
     
 }
 
@@ -18,14 +19,14 @@ gap: 10px;
 
 .postcontent{
 font-size: 24;
-margin-left: 5%;
+margin-left: 17%;
 }
 
 .comment{
 display: flex;
 align-items: center;
 gap: 5px;
-margin-left: 10%;
+margin-left: 27%;
 }
 
 
