@@ -8,12 +8,15 @@ body{
 
 .heading{
 display: flex;
+align-items: center;
 }
 
 .comment{
 font-size: 12;
+display: flex;
+align-items: center;
 }
 
 .post{
-margin: 0;
+
 }
