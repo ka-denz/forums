@@ -4,7 +4,7 @@ body{
     background-color: rgb(31, 31, 31);
     margin: 5%;
     margin-top: 10%;
-   
+
 }
 
 .post{
@@ -30,6 +30,7 @@ display: flex;
 align-items: baseline;
 gap: 5px;
 margin-left: 27%;
+
 }
 
 
