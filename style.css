@@ -11,8 +11,11 @@ display: flex;
 align-items: center;
 }
 
+.postcontent{
+font-size: 24;
+}
+
 .comment{
-font-size: 12;
 display: flex;
 align-items: center;
 }
@@ -20,3 +23,4 @@ align-items: center;
 .post{
 
 }
+
