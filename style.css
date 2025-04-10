@@ -2,7 +2,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: greenyellow;
     background-color: rgb(31, 31, 31);
-    margin: 10%;
+    margin: 5%;
     
 }
 
@@ -18,12 +18,14 @@ gap: 10px;
 
 .postcontent{
 font-size: 24;
+margin-left: 5%;
 }
 
 .comment{
 display: flex;
 align-items: center;
 gap: 5px;
+margin-left: 10%;
 }
 
 
